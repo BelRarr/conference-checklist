@@ -45,10 +45,12 @@
 
 
 # During the Celebration party
+- [ ] Be on time at the identified departure location at your hotel
+- [ ] Keep in mind that there are fixed departure and return time slots
 - [ ] Bring only the absolutely-required stuff
-- [ ] That way, the security check at the entrance will be faster, which means more time for fun!
-- [ ] Also because some attractions will require that you leave your stuff away for safety reasons
-- [ ] Also because it's better to carry food and drinks that backpacks and such stuff ;)
+    - That way, the security check at the entrance will be faster, which means more time for fun!
+    - Also because some attractions will require that you leave your stuff away for safety reasons
+    - Also because it's better to carry food and drinks that backpacks and such stuff ;)
 
 
 # After the event

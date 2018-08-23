@@ -21,3 +21,8 @@ This project accepts contributions.
 You can either improve the existing checklist or propose a new one for a given event.
 
 Happy contributing! :)
+
+# Credits
+Thanks to Jonathan McKinney for his contribution to this checklist.
+You can find his at <http://blog.ucomsgeek.com/2018/08/tips-and-tricks-unofficial-party-and.html>.  
+You can also find him on Twitter at [@ucomsgeek](https://twitter.com/ucomsgeek)

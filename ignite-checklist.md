@@ -3,6 +3,11 @@
 -  [ ] Pack your (nerdiest) clothes
     - You're free to be as nerdy as you like!
     - Pack light (the lighter, the better).
+- [ ] Bring clothes suitable for Orlando's weather
+    - The expected temp in Orlando for September is around 90 Fahrenheit (32C)
+- [ ] Bring good walking shoes because you'll do a lot of walking
+    - The convention center is very big
+    - Theme parks (Disney/Universal) are very big too
 - [ ] Bring a large backpack 'cause there will be a lot of goodies ! :)
     - You'll go back home with a heavier luggage than when you arrived...
     - Did I mention to pack light? ;)
@@ -15,8 +20,11 @@
     - It will be your best companion during the conference
 - [ ] Explore sessions and create your custom-tailored schedule
     - The conference center is very big, so I recommend to schedule more than one session for a given time slot. That way, you'll have a backup plan if the first session of your choice is either full or way to far to reach it before it begins.
+    - Use the [Schedule Builder](https://myignite.techcommunity.microsoft.com/sessions) for that matter.
+    - Select all sessions that interest you at first, then filter the conflicting ones. Remember to have 2 or 3 sessions for the same time slot as mentioned above.
 - [ ] Book a hotel proposed on the Microsoft Ignite website (preferably)
     - that way, you can take the shuttle from and to the conference center for free.
+    - You may consider booking an Airbnb, if you don't find a hotel that works for you.
 - [ ] If you're an MVP, don't forget to visit the MVP Lounge
 - [ ] If you're not an MVP, don't forget to visit the MVP Lounge
     - There are great people to meet, who are willing to share their enthusiasm, energy and knowledge with you!
@@ -42,6 +50,9 @@
 - [ ] Consider attending Theater (THR) sessions
     - These are short-condensed-very-informative sessions that really worth the shot
     - Last year, these sessions weren't recorded (unlike "regular" sessions); So, it might be your only chance to attend them!
+- [ ] You may be able to take note
+    - Keep in mind that Microsoft will provide a recording and the slide decks for most of the sessions (with exception to the THR sessions)
+    - [Jonathan McKinney](https://twitter.com/ucomsgeek) suggests that you use a Jabra Speak 410/510 (or similar devce) with OneNote. If you have the Bluetooth version you might even get permission to put it up near where the speaker is speaking. Check out [his blog post on this topic](http://blog.lyncdialog.com/2012/04/so-you-want-to-be-lync-master.html).
 
 
 # During the Celebration party
@@ -60,3 +71,8 @@
     - Yeah, it's okay to say that you had a wonderful time there! :D
 - [ ] Put what you've learn into practice
     - This could lead you to create something new, to contribute to an open-source project, present at a conference or a local event, write a blog, or else (let me know).
+    
+    
+ # Want more tips?
+ - [ ] Check out [Jonathan McKinney's blog post](http://blog.ucomsgeek.com/2018/08/tips-and-tricks-unofficial-party-and.html) as it is full of other great tips that aren't appearing here.
+    - Jonathan was kind enough to give me permission to include some of his tips in this checklist.

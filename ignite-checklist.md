@@ -16,7 +16,7 @@
 - [ ] Bring your business cards
 - [ ] Make sure you have enough money (there will be side expenses, believe me!)
 - [ ] Make space in your phone (yes, you'll take a looooot of pictures :D )
-- [ ] Downloand the Microsoft Ignite mobile app (*LINK_NOT_YET_AVAILABLE*)
+- [ ] Downloand the Microsoft Ignite mobile app [iOS](https://itunes.apple.com/us/app/msft-events/id1402818768?mt=8) and [Android](https://play.google.com/store/apps/details?id=com.microsoft.events)
     - It will be your best companion during the conference
 - [ ] Explore sessions and create your custom-tailored schedule
     - The conference center is very big, so I recommend to schedule more than one session for a given time slot. That way, you'll have a backup plan if the first session of your choice is either full or way to far to reach it before it begins.
@@ -40,6 +40,7 @@
 - [ ] Have fun! (this is the number one recommendation)
     - You've worked hard to get there so enjoy!
 - [ ] Talk to people, make new friends or new connections
+- [ ] Tweet your experience with the #MSIgnite hashtag
 - [ ] Allow time to visit booths
     - There's a lot of interesting things to discover there.
 - [ ] Allow time to enjoy the city
@@ -62,6 +63,7 @@
     - That way, the security check at the entrance will be faster, which means more time for fun!
     - Also because some attractions will require that you leave your stuff away for safety reasons
     - Also because it's better to carry food and drinks that backpacks and such stuff ;)
+- [ ] Tweet your experience with the #MSIgnite hashtag
 
 
 # After the event

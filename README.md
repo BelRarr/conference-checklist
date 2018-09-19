@@ -26,3 +26,6 @@ Happy contributing! :)
 Thanks to Jonathan McKinney for his contribution to this checklist.
 You can find his at <http://blog.ucomsgeek.com/2018/08/tips-and-tricks-unofficial-party-and.html>.  
 You can also find him on Twitter at [@ucomsgeek](https://twitter.com/ucomsgeek)
+
+Thanks to David Bargna for his contribution to this checklist.
+You can find him on Twitter at [@d_bargna](https://twitter.com/d_bargna)

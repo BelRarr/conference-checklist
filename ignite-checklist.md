@@ -12,7 +12,8 @@
     - You'll go back home with a heavier luggage than when you arrived...
     - Did I mention to pack light? ;)
 - [ ] Make sure your passport is still valid (if attending a conference in a foreign country)
-    - If you need a Visa, make sure you have it and it's valid
+    - If you need a VISA, make sure you have it and it's valid
+    - If you're travelling from a country which has a VISA waiver agreement with the US then don't forget to apply for an ESTA by visiting: <https://esta.cbp.dhs.gov/esta/>
 - [ ] Bring your business cards
 - [ ] Make sure you have enough money (there will be side expenses, believe me!)
 - [ ] Make space in your phone (yes, you'll take a looooot of pictures :D )
